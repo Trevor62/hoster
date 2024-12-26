@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "amaphill-backup",
+    "amaphill-backup": "amaphill-backup"
+  },
+  "targets": {},
+  "etags": {}
+}
